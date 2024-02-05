@@ -3,8 +3,8 @@
 👋 **Hi, I'm Mahdiyar!** 
 
 - 🎓 PhD candidate in Electrical & Computer Engineering @ Queen's University, Kingston, Ontario, Canada.
-- 🌟 Passionate about AI and its application, focusing on continual learning, super-resolution, neuromorphic systems
-- 🔬 Specializing in Deep Learning, especially in Continual Learning, Gradient Manipulation, and Domain Generalization.   
+- 🌟 Passionate about AI and its application, focusing on continual learning, federated learning, and gradient manipulation 
+- 🔬 Specializing in Deep Learning, especially in lifelong learning, machine vision, and domain generalization.   
 
 
 **Research & Projects:**
