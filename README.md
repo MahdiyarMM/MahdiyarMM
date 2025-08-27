@@ -27,5 +27,5 @@
 * **Website:** [mahdiyarmm.github.io](https://mahdiyarmm.github.io/)
 * **LinkedIn:** [linkedin.com/in/m-molahasani](https://www.linkedin.com/in/m-molahasani)
 
-Let’s explore impactful, efficient ML together!
+Let’s explore impactful, efficient ML together! 
 ---
