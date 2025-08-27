@@ -2,7 +2,7 @@
 
 👋 **Hi, I'm Mahdiyar!**
 
-* 🧠 **ML Research Scientist @ [Captura](https://captura.io/)** (since June 2025), building efficient, cutting-edge ML for imaging and creative workflows.
+* 🧠 **ML Research Scientist at [Captura](https://captura.io/)** (since June 2025), building efficient, cutting-edge ML for imaging and creative workflows.
 * 🎓 **Ph.D. (ECE), Queen’s University** — research in continual learning, federated learning, domain generalization, and gradient-based optimization for robust vision systems.
 * 🔭 Current interests: efficient vision models, vision-language systems, debiasing, and scalable learning under distribution shift.
 
