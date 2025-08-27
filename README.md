@@ -1,5 +1,4 @@
 ---
-bio: |-
   👋 **Hi, I'm Mahdiyar!**
 
   * 🧠 **ML Research Scientist at [Captura](https://captura.io/)** (since June 2025), building efficient, cutting-edge ML for imaging and creative workflows.
